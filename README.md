@@ -6,7 +6,7 @@ textAngular v1.5.16
 
 Demo is available at: http://www.textangular.com (Or editable [Plunkr Demo](http://plnkr.co/edit/hz3x2f?p=preview))
 
-#### Upgrading From 1.2.2 or earliers ss
+#### Upgrading From 1.2.2 or earliers s
 
 To upgrade from version 1.2.2 or earlier you need to follow these steps:
 
